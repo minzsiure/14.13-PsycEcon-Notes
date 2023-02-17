@@ -42,7 +42,8 @@
 ### E) How to measure/estimate unknown $\delta$?
 * Thaler (1981): (hypothetical) monetary choices
     * Choices between amounts at different points in time: What $X$ makes you indifferent between $ $Y$ ($15 in Thaler’s case) today and $ $X$ in $\dots$
-    * ![](https://i.imgur.com/TDA9HeR.png)
+
+![](https://i.imgur.com/TDA9HeR.png)
 
 
 ## 2. Evidence against exponential discounting
